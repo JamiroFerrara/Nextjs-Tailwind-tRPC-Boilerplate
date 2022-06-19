@@ -6,6 +6,6 @@ Basic boilerplate code for NextJs quickstart. Inspired by Theo @PingLabs
 - Clone the repository
 
 ```bash
-yarn dev
+yarn; yarn dev
 ```
 Access src directory with @
